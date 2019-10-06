@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClickTest",
+            "request": "launch",
+            "mainClass": "ClickTest",
+            "projectName": "hpa_automate_website_1931a0a1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Browser",
+            "request": "launch",
+            "mainClass": "Browser",
+            "projectName": "hpa_automate_website_1931a0a1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Launch",
+            "request": "launch",
+            "mainClass": "Launch",
+            "projectName": "hpa_automate_website_1931a0a1"
+        }
+    ]
+}

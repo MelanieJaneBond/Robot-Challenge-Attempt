@@ -8,8 +8,7 @@ public class ClickTest {
     public static void main(String args[]) throws AWTException {
         
         Robot robot = new Robot();
-        int mask = InputEvent.MOUSE_BUTTON1_DOWN;
-        robot.mouseMove(x, y);           
+        int mask = InputEvent.BUTTON1_DOWN_MASK;          
         robot.mousePress(mask);     
         robot.mouseRelease(mask);
     }
